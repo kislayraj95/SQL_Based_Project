@@ -1,0 +1,2 @@
+alias todo='python ./todo.py'  ->   This command will add alias in powershell, bash terminal.
+
